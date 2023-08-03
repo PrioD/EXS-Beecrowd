@@ -1,0 +1,15 @@
+D:\codinz\URI1038S\URI1038S\bin\Debug\net6.0\URI1038S.exe
+D:\codinz\URI1038S\URI1038S\bin\Debug\net6.0\URI1038S.deps.json
+D:\codinz\URI1038S\URI1038S\bin\Debug\net6.0\URI1038S.runtimeconfig.json
+D:\codinz\URI1038S\URI1038S\bin\Debug\net6.0\URI1038S.dll
+D:\codinz\URI1038S\URI1038S\bin\Debug\net6.0\URI1038S.pdb
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.csproj.AssemblyReference.cache
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.GeneratedMSBuildEditorConfig.editorconfig
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.AssemblyInfoInputs.cache
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.AssemblyInfo.cs
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.csproj.CoreCompileInputs.cache
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.dll
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\refint\URI1038S.dll
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.pdb
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\URI1038S.genruntimeconfig.cache
+D:\codinz\URI1038S\URI1038S\obj\Debug\net6.0\ref\URI1038S.dll

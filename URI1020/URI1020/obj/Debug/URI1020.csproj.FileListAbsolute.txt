@@ -1,0 +1,8 @@
+D:\codinz\URI1020\URI1020\bin\Debug\URI1020.exe.config
+D:\codinz\URI1020\URI1020\bin\Debug\URI1020.exe
+D:\codinz\URI1020\URI1020\bin\Debug\URI1020.pdb
+D:\codinz\URI1020\URI1020\obj\Debug\URI1020.csproj.AssemblyReference.cache
+D:\codinz\URI1020\URI1020\obj\Debug\URI1020.csproj.SuggestedBindingRedirects.cache
+D:\codinz\URI1020\URI1020\obj\Debug\URI1020.csproj.CoreCompileInputs.cache
+D:\codinz\URI1020\URI1020\obj\Debug\URI1020.exe
+D:\codinz\URI1020\URI1020\obj\Debug\URI1020.pdb
